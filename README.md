@@ -1,2 +1,2 @@
 # proyecto1
-prueba
+Este es un proyecto realizado con principios basicos de HTML y CSS 
