@@ -10,7 +10,8 @@ git config   -- global user.name "nombreo usuario"	configuracion nombre de git
 Que  es git 	
 
 git config   --global user.email"tu correo@"	configuracion de correo					
-mkdir	crear carpeta					
+mkdir	crear carpeta	
+
 git config --list	nos muestra la configuracion por defectp de nuestro git					
 .mail 	agrgamos al staging en este punto el archivo espera a que lo agregamos al repositorio					
 git add .	agregamos cambios los archivos dentro de nuestra carpeta al staging					
@@ -24,5 +25,6 @@ git diff 	nos muestra las diferencias entre las 2 versiones de los commits
 git diff #commit #comit2	muestra las diferecias entre las 2 versiones de los commits					
 git reset #commit --sott	volvemos nuestro archivo a la version de commit indicadas BORRADO TODOS LOS COMMITS USADOS ANTERIORES					
 git checkout #commit --hart	volvemos nuestro archivo a la version del commit indicado, sin cambiar nada en el stagigng v					
-Hotfix	cambios calientes o cambio de una 					
+Hotfix	cambios calientes o cambio de una 	
+
 ![image](https://user-images.githubusercontent.com/72534486/194196477-c3f56400-30e5-4437-ba47-268ac82a10bb.png)
