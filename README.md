@@ -27,4 +27,4 @@ git reset #commit --sott	volvemos nuestro archivo a la version de commit indicad
 git checkout #commit --hart	volvemos nuestro archivo a la version del commit indicado, sin cambiar nada en el stagigng v					
 Hotfix	cambios calientes o cambio de una 	
 
-![image](https://user-images.githubusercontent.com/72534486/194196477-c3f56400-30e5-4437-ba47-268ac82a10bb.png)
+
